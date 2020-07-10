@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.232,C:\Users\Персик\Documents\Курсачи\Микро мир\World.cbproj=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Users\Персик\Documents\Курсачи\Микро мир\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.208,C:\Users\Персик\Documents\Курсачи\Микро мир\main.dfm=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,C:\Users\Персик\Documents\Курсачи\Микро мир\classes.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,C:\Users\Персик\Documents\Курсачи\Микро мир\MyClass.h=C:\Users\Персик\Documents\Курсачи\Микро мир\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,C:\Users\Персик\Documents\Курсачи\Микро мир\WorldPCH1.h=C:\Users\Персик\Documents\Курсачи\Микро мир\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,=C:\Users\Персик\Documents\Курсачи\Микро мир\classes.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,C:\Users\Персик\Documents\Курсачи\Микро мир\classes.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,C:\Users\Персик\Documents\Курсачи\Микро мир\classes.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.208,C:\Users\Персик\Documents\Курсачи\Микро мир\main.cpp=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.369,C:\Users\Персик\Documents\Курсачи\Микро мир\Project1PCH1.h=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.208,C:\Users\Персик\Documents\Курсачи\Микро мир\main.h=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,C:\Users\Персик\Documents\Курсачи\Микро мир\Unit2.cpp=C:\Users\Персик\Documents\Курсачи\Микро мир\settings.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,=C:\Users\Персик\Documents\Курсачи\Микро мир\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,=C:\Users\Персик\Documents\Курсачи\Микро мир\classes.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=C:\Users\Персик\Documents\Курсачи\Микро мир\classes.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,C:\Users\Персик\Documents\Курсачи\Микро мир\Unit2.dfm=C:\Users\Персик\Documents\Курсачи\Микро мир\settings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,C:\Users\Персик\Documents\Курсачи\Микро мир\Unit2.h=C:\Users\Персик\Documents\Курсачи\Микро мир\settings.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,C:\Users\Персик\Documents\Курсачи\Микро мир\MyClass.cpp=C:\Users\Персик\Documents\Курсачи\Микро мир\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
